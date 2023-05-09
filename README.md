@@ -1,16 +1,12 @@
-# food_app
+# Flutter Food app | PageView + Animation + Infinity Scrolling 
 
-A new Flutter project.
+![Food App](./Food%20App.png)
 
-## Getting Started
+This is how to do animation in #flutter with pageview builder In this video, you will learn how to animate while sliding on pageview and controlling transform rotation. I have also added infinity scrolling where it can scroll on both sides and keep repeating itself when the scrolling ends.
 
-This project is a starting point for a Flutter application.
+# [Watch it on YouTube <a href="https://twitter.com/JamilShahbaj"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/youtube-circle.png" height="30"></a>](https://youtu.be/D8bgD9ZkbTg)
 
-A few resources to get you started if this is your first Flutter project:
+# [Watch it on Instagram <a href="https://instagram.com/strength_code"><img src="https://github.com/shahbajjamil/Social-Meadia-Icons/raw/master/Icons-logos/instagram-circle.png" height="30"></a>](https://instagram.com/strength_code)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Created by
+### Shahbaj Jamil
